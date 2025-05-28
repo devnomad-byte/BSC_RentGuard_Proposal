@@ -5,7 +5,7 @@
 ##### 提案名称：RentGuard 协议
 ##### 提交人： qi
 ##### 邮箱：devnomadbyte@gmail.com
-##### X 账号：@dajin_gou
+##### X 账号：@crypto_0xQ
 
 ## 1. 提案背景
 
