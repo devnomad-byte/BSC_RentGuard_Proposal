@@ -4,7 +4,7 @@
 ##### 日期：2025 年 5 月 20 日
 ##### 提案名称：RentGuard 协议
 ##### 提交人： qi
-##### 邮箱：qjc1024@aliyun.com
+##### 邮箱：devnomadbyte@gmail.com
 ##### X 账号：@dajin_gou
 
 ## 1. 提案背景
