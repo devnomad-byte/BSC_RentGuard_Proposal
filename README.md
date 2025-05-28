@@ -45,9 +45,7 @@ RentGuard 是为 BNB Smart Chain (BSC) 设计的链级租金回收与 BEP-20 资
 ---
 
 ## Contact | 联系方式
-
-- qi
-- qjc1024@aliyun.com
+- devnomadbyte@gmail.com
 
 ---
 
