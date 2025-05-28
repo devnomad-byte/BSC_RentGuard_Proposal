@@ -4,9 +4,9 @@ Submitted to: BNB Chain Community / Most Valuable Builder (MVB) Accelerator Prog
 Date: May 20, 2025
 Proposal Name: RentGuard Protocol
 Submitted by: qi
-Email: qjc1024@aliyun.com
+Email: devnomadbyte@gmail.com
 
-X:  @dajin_gou
+X:  @crypto_0xQ
 
 ## 1. Background
 
